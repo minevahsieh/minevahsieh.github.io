@@ -1,0 +1,92 @@
+[
+  {
+    "cid": "1",
+    "imgUrl": "static/images/makeup/conceptual_beauty/01.jpg",
+    "alt": "conceptual_beauty",
+		"direction": "horizon"
+  },
+	{
+    "cid": "2",
+    "imgUrl": "static/images/makeup/conceptual_beauty/02.jpg",
+    "alt": "conceptual_beauty",
+		"direction": "vertical"
+  },
+	{
+    "cid": "3",
+    "imgUrl": "static/images/makeup/conceptual_beauty/03.jpg",
+    "alt": "conceptual_beauty",
+		"direction": "vertical"
+  },
+	{
+    "cid": "4",
+    "imgUrl": "static/images/makeup/conceptual_beauty/04.jpg",
+    "alt": "conceptual_beauty",
+		"direction": "vertical"
+  },
+	{
+    "cid": "5",
+    "imgUrl": "static/images/makeup/conceptual_beauty/05.jpg",
+    "alt": "conceptual_beauty",
+		"direction": "vertical"
+  },
+	{
+    "cid": "6",
+    "imgUrl": "static/images/makeup/conceptual_beauty/06.jpg",
+    "alt": "conceptual_beauty",
+		"direction": "horizon"
+  },
+	{
+    "cid": "7",
+    "imgUrl": "static/images/makeup/conceptual_beauty/07.jpg",
+    "alt": "conceptual_beauty",
+		"direction": "vertical"
+  },
+	{
+    "cid": "8",
+    "imgUrl": "static/images/makeup/conceptual_beauty/08.jpg",
+    "alt": "conceptual_beauty",
+		"direction": "vertical"
+  },
+	{
+    "cid": "9",
+    "imgUrl": "static/images/makeup/conceptual_beauty/09.jpg",
+    "alt": "conceptual_beauty",
+		"direction": "vertical"
+  },
+	{
+    "cid": "10",
+    "imgUrl": "static/images/makeup/conceptual_beauty/010.jpg",
+    "alt": "conceptual_beauty",
+		"direction": "horizon"
+  },
+	{
+    "cid": "11",
+    "imgUrl": "static/images/makeup/conceptual_beauty/011.jpg",
+    "alt": "conceptual_beauty",
+		"direction": "vertical"
+  },
+	{
+    "cid": "12",
+    "imgUrl": "static/images/makeup/conceptual_beauty/012.jpg",
+    "alt": "conceptual_beauty",
+		"direction": "vertical"
+  },
+	{
+    "cid": "13",
+    "imgUrl": "static/images/makeup/conceptual_beauty/013.jpg",
+    "alt": "conceptual_beauty",
+		"direction": "vertical"
+  },
+	{
+    "cid": "14",
+    "imgUrl": "static/images/makeup/conceptual_beauty/014.jpg",
+    "alt": "conceptual_beauty",
+		"direction": "horizon"
+  },
+	{
+    "cid": "15",
+    "imgUrl": "static/images/makeup/conceptual_beauty/015.jpg",
+    "alt": "conceptual_beauty",
+		"direction": "vertical"
+  }
+]
